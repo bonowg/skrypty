@@ -1,0 +1,1 @@
+@powershell -execution bypass ./killcopydll.ps1
